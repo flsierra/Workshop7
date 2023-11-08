@@ -15,8 +15,7 @@ public class Main {
             System.out.println("1. Agregar canción a la cola");
             System.out.println("2. Reproducir canciones en la cola");
             System.out.println("3. Eliminar canción de la cola");
-            System.out.println("4. la lista de canciones");
-            System.out.println("5. Salir");
+            System.out.println("4. Salir");
             System.out.println("Ingrese su opción");
             opcion = scanner.nextInt();
 
